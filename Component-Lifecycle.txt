@@ -1,0 +1,5 @@
+------------------- COMPONENT LIFECYCLE ----------------------
+1. Contructor
+2. Render
+3. Mount
+4. Re-Render
